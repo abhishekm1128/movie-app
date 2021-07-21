@@ -1,0 +1,7 @@
+.tabs {
+  display: flex;
+  flex-flow: row nowrap;
+  border-radius: 12px;
+  background-color: rgb(242, 219, 255);
+  color: white;
+}

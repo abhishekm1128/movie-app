@@ -1,0 +1,13 @@
+.data {
+  display: flex;
+  text-align: left;
+  padding: 8px;
+}
+
+.loader {
+  padding: 24px;
+}
+
+.error {
+  padding: 24px;
+}
